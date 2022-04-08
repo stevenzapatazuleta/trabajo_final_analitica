@@ -1,0 +1,1 @@
+web: sh setup.sh && streamlit run trabajo_final.py

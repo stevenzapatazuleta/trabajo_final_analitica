@@ -1,0 +1,826 @@
+fecha,geografia,nivel_educativo,valor
+2001,canada,all levels of education,7.4
+2001,canada,less than high school,15.9
+2001,canada,high school,8.3
+2001,canada,college or trade,6.3
+2001,canada,university,5.5
+2001,newfoundland and labrador,all levels of education,17.2
+2001,newfoundland and labrador,less than high school,32.6
+2001,newfoundland and labrador,high school,19.1
+2001,newfoundland and labrador,college or trade,16.9
+2001,newfoundland and labrador,university,3.6654545454545446
+2001,prince edward island,all levels of education,14.9
+2001,prince edward island,less than high school,33.7
+2001,prince edward island,high school,21.8
+2001,prince edward island,college or trade,8.9
+2001,prince edward island,university,3.6654545454545446
+2001,nova scotia,all levels of education,9.5
+2001,nova scotia,less than high school,17.1
+2001,nova scotia,high school,10.5
+2001,nova scotia,college or trade,9.7
+2001,nova scotia,university,5.7
+2001,new brunswick,all levels of education,10.6
+2001,new brunswick,less than high school,33.5
+2001,new brunswick,high school,14.2
+2001,new brunswick,college or trade,7.3
+2001,new brunswick,university,3.6654545454545446
+2001,quebec,all levels of education,8.5
+2001,quebec,less than high school,18.7
+2001,quebec,high school,9.6
+2001,quebec,college or trade,7.1
+2001,quebec,university,5.7
+2001,ontario,all levels of education,6.9
+2001,ontario,less than high school,12.1
+2001,ontario,high school,7.7
+2001,ontario,college or trade,6.1
+2001,ontario,university,6.0
+2001,manitoba,all levels of education,5.2
+2001,manitoba,less than high school,13.1
+2001,manitoba,high school,4.5
+2001,manitoba,college or trade,4.1
+2001,manitoba,university,4.8
+2001,saskatchewan,all levels of education,6.7
+2001,saskatchewan,less than high school,13.718181818181815
+2001,saskatchewan,high school,8.2
+2001,saskatchewan,college or trade,5.9
+2001,saskatchewan,university,3.6654545454545446
+2001,alberta,all levels of education,4.7
+2001,alberta,less than high school,9.9
+2001,alberta,high school,5.5
+2001,alberta,college or trade,3.6
+2001,alberta,university,3.7
+2001,british columbia,all levels of education,7.9
+2001,british columbia,less than high school,20.8
+2001,british columbia,high school,9.0
+2001,british columbia,college or trade,5.7
+2001,british columbia,university,5.4
+2002,canada,all levels of education,8.0
+2002,canada,less than high school,15.7
+2002,canada,high school,9.5
+2002,canada,college or trade,6.8
+2002,canada,university,5.8
+2002,newfoundland and labrador,all levels of education,20.6
+2002,newfoundland and labrador,less than high school,40.8
+2002,newfoundland and labrador,high school,24.5
+2002,newfoundland and labrador,college or trade,19.4
+2002,newfoundland and labrador,university,3.6654545454545446
+2002,prince edward island,all levels of education,14.5
+2002,prince edward island,less than high school,32.6
+2002,prince edward island,high school,18.7
+2002,prince edward island,college or trade,11.0
+2002,prince edward island,university,3.6654545454545446
+2002,nova scotia,all levels of education,9.4
+2002,nova scotia,less than high school,14.8
+2002,nova scotia,high school,11.5
+2002,nova scotia,college or trade,9.3
+2002,nova scotia,university,5.4
+2002,new brunswick,all levels of education,10.1
+2002,new brunswick,less than high school,31.6
+2002,new brunswick,high school,13.9
+2002,new brunswick,college or trade,7.5
+2002,new brunswick,university,3.6654545454545446
+2002,quebec,all levels of education,8.4
+2002,quebec,less than high school,15.0
+2002,quebec,high school,10.8
+2002,quebec,college or trade,7.5
+2002,quebec,university,5.7
+2002,ontario,all levels of education,8.0
+2002,ontario,less than high school,16.3
+2002,ontario,high school,9.6
+2002,ontario,college or trade,6.3
+2002,ontario,university,6.9
+2002,manitoba,all levels of education,5.2
+2002,manitoba,less than high school,9.9
+2002,manitoba,high school,5.3
+2002,manitoba,college or trade,5.2
+2002,manitoba,university,3.6654545454545446
+2002,saskatchewan,all levels of education,5.7
+2002,saskatchewan,less than high school,18.3
+2002,saskatchewan,high school,6.7
+2002,saskatchewan,college or trade,3.2
+2002,saskatchewan,university,3.6654545454545446
+2002,alberta,all levels of education,4.7
+2002,alberta,less than high school,13.718181818181815
+2002,alberta,high school,5.7
+2002,alberta,college or trade,3.9
+2002,alberta,university,3.6654545454545446
+2002,british columbia,all levels of education,9.1
+2002,british columbia,less than high school,17.7
+2002,british columbia,high school,10.4
+2002,british columbia,college or trade,7.9
+2002,british columbia,university,5.8
+2003,canada,all levels of education,7.5
+2003,canada,less than high school,16.1
+2003,canada,high school,8.4
+2003,canada,college or trade,6.5
+2003,canada,university,5.6
+2003,newfoundland and labrador,all levels of education,17.0
+2003,newfoundland and labrador,less than high school,38.9
+2003,newfoundland and labrador,high school,19.5
+2003,newfoundland and labrador,college or trade,18.4
+2003,newfoundland and labrador,university,3.6654545454545446
+2003,prince edward island,all levels of education,13.1
+2003,prince edward island,less than high school,13.718181818181815
+2003,prince edward island,high school,22.6
+2003,prince edward island,college or trade,8.1
+2003,prince edward island,university,3.6654545454545446
+2003,nova scotia,all levels of education,9.9
+2003,nova scotia,less than high school,20.3
+2003,nova scotia,high school,14.6
+2003,nova scotia,college or trade,8.5
+2003,nova scotia,university,5.4
+2003,new brunswick,all levels of education,10.3
+2003,new brunswick,less than high school,21.4
+2003,new brunswick,high school,15.3
+2003,new brunswick,college or trade,9.2
+2003,new brunswick,university,3.6654545454545446
+2003,quebec,all levels of education,8.8
+2003,quebec,less than high school,17.1
+2003,quebec,high school,9.0
+2003,quebec,college or trade,8.5
+2003,quebec,university,5.7
+2003,ontario,all levels of education,6.7
+2003,ontario,less than high school,14.0
+2003,ontario,high school,7.5
+2003,ontario,college or trade,5.3
+2003,ontario,university,6.2
+2003,manitoba,all levels of education,5.0
+2003,manitoba,less than high school,12.7
+2003,manitoba,high school,5.0
+2003,manitoba,college or trade,5.0
+2003,manitoba,university,3.6654545454545446
+2003,saskatchewan,all levels of education,6.0
+2003,saskatchewan,less than high school,19.9
+2003,saskatchewan,high school,6.4
+2003,saskatchewan,college or trade,4.8
+2003,saskatchewan,university,3.6654545454545446
+2003,alberta,all levels of education,4.7
+2003,alberta,less than high school,8.9
+2003,alberta,high school,5.8
+2003,alberta,college or trade,3.3
+2003,alberta,university,3.5
+2003,british columbia,all levels of education,9.2
+2003,british columbia,less than high school,23.4
+2003,british columbia,high school,10.3
+2003,british columbia,college or trade,6.3
+2003,british columbia,university,7.2
+2004,canada,all levels of education,7.8
+2004,canada,less than high school,15.5
+2004,canada,high school,8.7
+2004,canada,college or trade,6.3
+2004,canada,university,6.6
+2004,newfoundland and labrador,all levels of education,19.5
+2004,newfoundland and labrador,less than high school,31.0
+2004,newfoundland and labrador,high school,24.0
+2004,newfoundland and labrador,college or trade,19.0
+2004,newfoundland and labrador,university,11.3
+2004,prince edward island,all levels of education,12.8
+2004,prince edward island,less than high school,13.718181818181815
+2004,prince edward island,high school,15.1
+2004,prince edward island,college or trade,10.2
+2004,prince edward island,university,3.6654545454545446
+2004,nova scotia,all levels of education,11.1
+2004,nova scotia,less than high school,22.1
+2004,nova scotia,high school,12.2
+2004,nova scotia,college or trade,10.2
+2004,nova scotia,university,8.3
+2004,new brunswick,all levels of education,8.6
+2004,new brunswick,less than high school,26.6
+2004,new brunswick,high school,11.8
+2004,new brunswick,college or trade,6.2
+2004,new brunswick,university,3.6654545454545446
+2004,quebec,all levels of education,8.5
+2004,quebec,less than high school,19.6
+2004,quebec,high school,9.7
+2004,quebec,college or trade,6.3
+2004,quebec,university,7.6
+2004,ontario,all levels of education,8.0
+2004,ontario,less than high school,12.9
+2004,ontario,high school,9.5
+2004,ontario,college or trade,6.7
+2004,ontario,university,6.9
+2004,manitoba,all levels of education,5.7
+2004,manitoba,less than high school,9.8
+2004,manitoba,high school,7.0
+2004,manitoba,college or trade,4.3
+2004,manitoba,university,3.6654545454545446
+2004,saskatchewan,all levels of education,6.5
+2004,saskatchewan,less than high school,18.5
+2004,saskatchewan,high school,7.6
+2004,saskatchewan,college or trade,4.7
+2004,saskatchewan,university,4.3
+2004,alberta,all levels of education,4.9
+2004,alberta,less than high school,8.6
+2004,alberta,high school,5.5
+2004,alberta,college or trade,4.0
+2004,alberta,university,4.0
+2004,british columbia,all levels of education,6.7
+2004,british columbia,less than high school,17.0
+2004,british columbia,high school,7.3
+2004,british columbia,college or trade,5.1
+2004,british columbia,university,5.5
+2005,canada,all levels of education,6.9
+2005,canada,less than high school,14.9
+2005,canada,high school,7.4
+2005,canada,college or trade,5.8
+2005,canada,university,5.7
+2005,newfoundland and labrador,all levels of education,15.7
+2005,newfoundland and labrador,less than high school,13.718181818181815
+2005,newfoundland and labrador,high school,17.8
+2005,newfoundland and labrador,college or trade,16.0
+2005,newfoundland and labrador,university,3.6654545454545446
+2005,prince edward island,all levels of education,10.6
+2005,prince edward island,less than high school,13.718181818181815
+2005,prince edward island,high school,12.3
+2005,prince edward island,college or trade,8.0
+2005,prince edward island,university,3.6654545454545446
+2005,nova scotia,all levels of education,9.3
+2005,nova scotia,less than high school,22.2
+2005,nova scotia,high school,13.0
+2005,nova scotia,college or trade,6.0
+2005,nova scotia,university,7.0
+2005,new brunswick,all levels of education,9.3
+2005,new brunswick,less than high school,33.8
+2005,new brunswick,high school,10.4
+2005,new brunswick,college or trade,7.8
+2005,new brunswick,university,3.6654545454545446
+2005,quebec,all levels of education,8.5
+2005,quebec,less than high school,18.0
+2005,quebec,high school,9.6
+2005,quebec,college or trade,6.8
+2005,quebec,university,7.4
+2005,ontario,all levels of education,6.9
+2005,ontario,less than high school,14.7
+2005,ontario,high school,7.8
+2005,ontario,college or trade,5.4
+2005,ontario,university,6.0
+2005,manitoba,all levels of education,5.6
+2005,manitoba,less than high school,13.4
+2005,manitoba,high school,7.2
+2005,manitoba,college or trade,3.4
+2005,manitoba,university,3.6654545454545446
+2005,saskatchewan,all levels of education,4.7
+2005,saskatchewan,less than high school,13.718181818181815
+2005,saskatchewan,high school,5.9
+2005,saskatchewan,college or trade,3.6
+2005,saskatchewan,university,3.6654545454545446
+2005,alberta,all levels of education,3.9
+2005,alberta,less than high school,13.718181818181815
+2005,alberta,high school,4.2
+2005,alberta,college or trade,3.8
+2005,alberta,university,3.4
+2005,british columbia,all levels of education,5.5
+2005,british columbia,less than high school,13.8
+2005,british columbia,high school,5.4
+2005,british columbia,college or trade,4.7
+2005,british columbia,university,4.4
+2006,canada,all levels of education,6.2
+2006,canada,less than high school,13.6
+2006,canada,high school,7.3
+2006,canada,college or trade,5.2
+2006,canada,university,4.4
+2006,newfoundland and labrador,all levels of education,16.8
+2006,newfoundland and labrador,less than high school,48.6
+2006,newfoundland and labrador,high school,21.2
+2006,newfoundland and labrador,college or trade,16.0
+2006,newfoundland and labrador,university,3.6654545454545446
+2006,prince edward island,all levels of education,11.9
+2006,prince edward island,less than high school,31.7
+2006,prince edward island,high school,13.9
+2006,prince edward island,college or trade,6.8206060606060595
+2006,prince edward island,university,3.6654545454545446
+2006,nova scotia,all levels of education,7.8
+2006,nova scotia,less than high school,22.6
+2006,nova scotia,high school,8.1
+2006,nova scotia,college or trade,7.9
+2006,nova scotia,university,3.6654545454545446
+2006,new brunswick,all levels of education,8.4
+2006,new brunswick,less than high school,13.718181818181815
+2006,new brunswick,high school,11.6
+2006,new brunswick,college or trade,6.8
+2006,new brunswick,university,3.6654545454545446
+2006,quebec,all levels of education,7.5
+2006,quebec,less than high school,16.3
+2006,quebec,high school,10.7
+2006,quebec,college or trade,6.4
+2006,quebec,university,4.4
+2006,ontario,all levels of education,6.3
+2006,ontario,less than high school,14.6
+2006,ontario,high school,8.0
+2006,ontario,college or trade,5.0
+2006,ontario,university,4.8
+2006,manitoba,all levels of education,4.4
+2006,manitoba,less than high school,13.718181818181815
+2006,manitoba,high school,5.6
+2006,manitoba,college or trade,3.9
+2006,manitoba,university,3.6654545454545446
+2006,saskatchewan,all levels of education,5.7
+2006,saskatchewan,less than high school,14.1
+2006,saskatchewan,high school,7.3
+2006,saskatchewan,college or trade,3.9
+2006,saskatchewan,university,3.6654545454545446
+2006,alberta,all levels of education,3.1
+2006,alberta,less than high school,13.718181818181815
+2006,alberta,high school,3.5
+2006,alberta,college or trade,2.6
+2006,alberta,university,3.6654545454545446
+2006,british columbia,all levels of education,4.8
+2006,british columbia,less than high school,13.718181818181815
+2006,british columbia,high school,4.8
+2006,british columbia,college or trade,3.2
+2006,british columbia,university,5.7
+2007,canada,all levels of education,6.4
+2007,canada,less than high school,15.9
+2007,canada,high school,7.3
+2007,canada,college or trade,5.3
+2007,canada,university,4.5
+2007,newfoundland and labrador,all levels of education,11.7
+2007,newfoundland and labrador,less than high school,13.718181818181815
+2007,newfoundland and labrador,high school,15.8
+2007,newfoundland and labrador,college or trade,12.3
+2007,newfoundland and labrador,university,3.6654545454545446
+2007,prince edward island,all levels of education,9.5
+2007,prince edward island,less than high school,13.718181818181815
+2007,prince edward island,high school,13.9
+2007,prince edward island,college or trade,6.8206060606060595
+2007,prince edward island,university,3.6654545454545446
+2007,nova scotia,all levels of education,7.9
+2007,nova scotia,less than high school,19.5
+2007,nova scotia,high school,10.3
+2007,nova scotia,college or trade,6.6
+2007,nova scotia,university,4.3
+2007,new brunswick,all levels of education,7.5
+2007,new brunswick,less than high school,13.718181818181815
+2007,new brunswick,high school,9.5
+2007,new brunswick,college or trade,6.7
+2007,new brunswick,university,3.6654545454545446
+2007,quebec,all levels of education,7.8
+2007,quebec,less than high school,22.3
+2007,quebec,high school,10.1
+2007,quebec,college or trade,5.5
+2007,quebec,university,5.2
+2007,ontario,all levels of education,6.9
+2007,ontario,less than high school,15.6
+2007,ontario,high school,8.3
+2007,ontario,college or trade,6.1
+2007,ontario,university,5.0
+2007,manitoba,all levels of education,4.9
+2007,manitoba,less than high school,11.7
+2007,manitoba,high school,4.0
+2007,manitoba,college or trade,4.0
+2007,manitoba,university,4.4
+2007,saskatchewan,all levels of education,4.8
+2007,saskatchewan,less than high school,13.718181818181815
+2007,saskatchewan,high school,6.0
+2007,saskatchewan,college or trade,4.1
+2007,saskatchewan,university,3.6654545454545446
+2007,alberta,all levels of education,3.8
+2007,alberta,less than high school,13.718181818181815
+2007,alberta,high school,4.5
+2007,alberta,college or trade,3.0
+2007,alberta,university,3.1
+2007,british columbia,all levels of education,4.5
+2007,british columbia,less than high school,10.0
+2007,british columbia,high school,4.5
+2007,british columbia,college or trade,4.2
+2007,british columbia,university,3.4
+2008,canada,all levels of education,6.0
+2008,canada,less than high school,13.6
+2008,canada,high school,6.9
+2008,canada,college or trade,5.0
+2008,canada,university,4.8
+2008,newfoundland and labrador,all levels of education,13.1
+2008,newfoundland and labrador,less than high school,13.718181818181815
+2008,newfoundland and labrador,high school,15.7
+2008,newfoundland and labrador,college or trade,13.7
+2008,newfoundland and labrador,university,3.6654545454545446
+2008,prince edward island,all levels of education,8.8
+2008,prince edward island,less than high school,13.718181818181815
+2008,prince edward island,high school,13.4
+2008,prince edward island,college or trade,6.8206060606060595
+2008,prince edward island,university,3.6654545454545446
+2008,nova scotia,all levels of education,7.9
+2008,nova scotia,less than high school,20.7
+2008,nova scotia,high school,10.6
+2008,nova scotia,college or trade,6.9
+2008,nova scotia,university,3.6654545454545446
+2008,new brunswick,all levels of education,8.3
+2008,new brunswick,less than high school,29.2
+2008,new brunswick,high school,13.5
+2008,new brunswick,college or trade,6.9
+2008,new brunswick,university,3.6654545454545446
+2008,quebec,all levels of education,7.2
+2008,quebec,less than high school,17.3
+2008,quebec,high school,8.3
+2008,quebec,college or trade,5.9
+2008,quebec,university,5.4
+2008,ontario,all levels of education,6.4
+2008,ontario,less than high school,13.9
+2008,ontario,high school,8.0
+2008,ontario,college or trade,5.4
+2008,ontario,university,5.4
+2008,manitoba,all levels of education,4.5
+2008,manitoba,less than high school,13.718181818181815
+2008,manitoba,high school,4.1
+2008,manitoba,college or trade,3.3
+2008,manitoba,university,4.7
+2008,saskatchewan,all levels of education,4.2
+2008,saskatchewan,less than high school,13.718181818181815
+2008,saskatchewan,high school,4.5
+2008,saskatchewan,college or trade,2.9
+2008,saskatchewan,university,3.9
+2008,alberta,all levels of education,3.2
+2008,alberta,less than high school,13.718181818181815
+2008,alberta,high school,4.0
+2008,alberta,college or trade,2.4
+2008,alberta,university,2.4
+2008,british columbia,all levels of education,4.7
+2008,british columbia,less than high school,13.718181818181815
+2008,british columbia,high school,5.0
+2008,british columbia,college or trade,3.6
+2008,british columbia,university,4.5
+2009,canada,all levels of education,8.4
+2009,canada,less than high school,16.5
+2009,canada,high school,10.8
+2009,canada,college or trade,7.4
+2009,canada,university,5.8
+2009,newfoundland and labrador,all levels of education,15.7
+2009,newfoundland and labrador,less than high school,13.718181818181815
+2009,newfoundland and labrador,high school,23.8
+2009,newfoundland and labrador,college or trade,14.1
+2009,newfoundland and labrador,university,3.6654545454545446
+2009,prince edward island,all levels of education,10.8
+2009,prince edward island,less than high school,13.718181818181815
+2009,prince edward island,high school,14.0
+2009,prince edward island,college or trade,9.8
+2009,prince edward island,university,3.6654545454545446
+2009,nova scotia,all levels of education,11.1
+2009,nova scotia,less than high school,19.9
+2009,nova scotia,high school,14.0
+2009,nova scotia,college or trade,11.0
+2009,nova scotia,university,6.8
+2009,new brunswick,all levels of education,7.7
+2009,new brunswick,less than high school,13.718181818181815
+2009,new brunswick,high school,11.2
+2009,new brunswick,college or trade,6.6
+2009,new brunswick,university,3.6654545454545446
+2009,quebec,all levels of education,8.3
+2009,quebec,less than high school,19.4
+2009,quebec,high school,10.8
+2009,quebec,college or trade,7.8
+2009,quebec,university,5.0
+2009,ontario,all levels of education,9.0
+2009,ontario,less than high school,15.7
+2009,ontario,high school,11.9
+2009,ontario,college or trade,8.0
+2009,ontario,university,6.8
+2009,manitoba,all levels of education,5.7
+2009,manitoba,less than high school,10.8
+2009,manitoba,high school,6.9
+2009,manitoba,college or trade,4.6
+2009,manitoba,university,3.4
+2009,saskatchewan,all levels of education,5.2
+2009,saskatchewan,less than high school,13.718181818181815
+2009,saskatchewan,high school,6.8
+2009,saskatchewan,college or trade,3.9
+2009,saskatchewan,university,3.6654545454545446
+2009,alberta,all levels of education,6.0
+2009,alberta,less than high school,12.1
+2009,alberta,high school,9.3
+2009,alberta,college or trade,4.3
+2009,alberta,university,2.8
+2009,british columbia,all levels of education,9.1
+2009,british columbia,less than high school,19.9
+2009,british columbia,high school,10.0
+2009,british columbia,college or trade,7.8
+2009,british columbia,university,7.6
+2010,canada,all levels of education,8.4
+2010,canada,less than high school,17.7
+2010,canada,high school,11.1
+2010,canada,college or trade,6.5
+2010,canada,university,6.6
+2010,newfoundland and labrador,all levels of education,13.6
+2010,newfoundland and labrador,less than high school,13.718181818181815
+2010,newfoundland and labrador,high school,11.9
+2010,newfoundland and labrador,college or trade,15.0
+2010,newfoundland and labrador,university,9.7
+2010,prince edward island,all levels of education,13.6
+2010,prince edward island,less than high school,13.718181818181815
+2010,prince edward island,high school,20.0
+2010,prince edward island,college or trade,12.4
+2010,prince edward island,university,3.6654545454545446
+2010,nova scotia,all levels of education,10.9
+2010,nova scotia,less than high school,26.1
+2010,nova scotia,high school,16.4
+2010,nova scotia,college or trade,10.3
+2010,nova scotia,university,5.2
+2010,new brunswick,all levels of education,8.7
+2010,new brunswick,less than high school,13.718181818181815
+2010,new brunswick,high school,13.7
+2010,new brunswick,college or trade,7.2
+2010,new brunswick,university,5.0
+2010,quebec,all levels of education,7.7
+2010,quebec,less than high school,17.2
+2010,quebec,high school,11.6
+2010,quebec,college or trade,6.3
+2010,quebec,university,5.3
+2010,ontario,all levels of education,9.3
+2010,ontario,less than high school,19.1
+2010,ontario,high school,13.1
+2010,ontario,college or trade,6.6
+2010,ontario,university,7.9
+2010,manitoba,all levels of education,6.0
+2010,manitoba,less than high school,12.2
+2010,manitoba,high school,6.3
+2010,manitoba,college or trade,4.9
+2010,manitoba,university,4.9
+2010,saskatchewan,all levels of education,6.5
+2010,saskatchewan,less than high school,16.7
+2010,saskatchewan,high school,9.8
+2010,saskatchewan,college or trade,4.2
+2010,saskatchewan,university,3.6654545454545446
+2010,alberta,all levels of education,6.7
+2010,alberta,less than high school,16.0
+2010,alberta,high school,8.2
+2010,alberta,college or trade,4.8
+2010,alberta,university,4.6
+2010,british columbia,all levels of education,8.7
+2010,british columbia,less than high school,18.0
+2010,british columbia,high school,9.1
+2010,british columbia,college or trade,7.2
+2010,british columbia,university,8.1
+2011,canada,all levels of education,8.0
+2011,canada,less than high school,17.1
+2011,canada,high school,9.5
+2011,canada,college or trade,6.7
+2011,canada,university,6.5
+2011,newfoundland and labrador,all levels of education,12.3
+2011,newfoundland and labrador,less than high school,30.0
+2011,newfoundland and labrador,high school,16.3
+2011,newfoundland and labrador,college or trade,11.5
+2011,newfoundland and labrador,university,3.6654545454545446
+2011,prince edward island,all levels of education,11.6
+2011,prince edward island,less than high school,13.718181818181815
+2011,prince edward island,high school,17.0
+2011,prince edward island,college or trade,11.7
+2011,prince edward island,university,3.6654545454545446
+2011,nova scotia,all levels of education,10.6
+2011,nova scotia,less than high school,13.718181818181815
+2011,nova scotia,high school,15.2
+2011,nova scotia,college or trade,10.5
+2011,nova scotia,university,6.4
+2011,new brunswick,all levels of education,9.0
+2011,new brunswick,less than high school,26.8
+2011,new brunswick,high school,11.9
+2011,new brunswick,college or trade,7.4
+2011,new brunswick,university,5.1
+2011,quebec,all levels of education,8.4
+2011,quebec,less than high school,20.1
+2011,quebec,high school,10.3
+2011,quebec,college or trade,6.7
+2011,quebec,university,6.4
+2011,ontario,all levels of education,8.8
+2011,ontario,less than high school,16.9
+2011,ontario,high school,10.5
+2011,ontario,college or trade,7.5
+2011,ontario,university,7.9
+2011,manitoba,all levels of education,5.7
+2011,manitoba,less than high school,11.5
+2011,manitoba,high school,6.6
+2011,manitoba,college or trade,4.9
+2011,manitoba,university,3.3
+2011,saskatchewan,all levels of education,5.1
+2011,saskatchewan,less than high school,16.3
+2011,saskatchewan,high school,7.0
+2011,saskatchewan,college or trade,3.2
+2011,saskatchewan,university,3.6654545454545446
+2011,alberta,all levels of education,5.0
+2011,alberta,less than high school,11.1
+2011,alberta,high school,6.7
+2011,alberta,college or trade,3.5
+2011,alberta,university,3.3
+2011,british columbia,all levels of education,8.2
+2011,british columbia,less than high school,17.9
+2011,british columbia,high school,9.3
+2011,british columbia,college or trade,7.0
+2011,british columbia,university,6.6
+2012,canada,all levels of education,7.5
+2012,canada,less than high school,16.4
+2012,canada,high school,9.1
+2012,canada,college or trade,6.3
+2012,canada,university,6.0
+2012,newfoundland and labrador,all levels of education,12.0
+2012,newfoundland and labrador,less than high school,13.718181818181815
+2012,newfoundland and labrador,high school,17.1
+2012,newfoundland and labrador,college or trade,12.0
+2012,newfoundland and labrador,university,3.6654545454545446
+2012,prince edward island,all levels of education,9.3
+2012,prince edward island,less than high school,13.718181818181815
+2012,prince edward island,high school,14.0
+2012,prince edward island,college or trade,8.8
+2012,prince edward island,university,3.6654545454545446
+2012,nova scotia,all levels of education,11.7
+2012,nova scotia,less than high school,24.8
+2012,nova scotia,high school,17.5
+2012,nova scotia,college or trade,11.9
+2012,nova scotia,university,6.4
+2012,new brunswick,all levels of education,11.1
+2012,new brunswick,less than high school,21.6
+2012,new brunswick,high school,13.9
+2012,new brunswick,college or trade,10.3
+2012,new brunswick,university,6.2
+2012,quebec,all levels of education,7.8
+2012,quebec,less than high school,17.7
+2012,quebec,high school,10.9
+2012,quebec,college or trade,6.1
+2012,quebec,university,6.0
+2012,ontario,all levels of education,8.3
+2012,ontario,less than high school,20.1
+2012,ontario,high school,10.6
+2012,ontario,college or trade,7.0
+2012,ontario,university,6.6
+2012,manitoba,all levels of education,5.2
+2012,manitoba,less than high school,11.6
+2012,manitoba,high school,4.8
+2012,manitoba,college or trade,4.3
+2012,manitoba,university,4.9
+2012,saskatchewan,all levels of education,5.4
+2012,saskatchewan,less than high school,16.7
+2012,saskatchewan,high school,6.6
+2012,saskatchewan,college or trade,3.7
+2012,saskatchewan,university,3.6
+2012,alberta,all levels of education,4.2
+2012,alberta,less than high school,9.5
+2012,alberta,high school,5.2
+2012,alberta,college or trade,3.2
+2012,alberta,university,3.1
+2012,british columbia,all levels of education,7.5
+2012,british columbia,less than high school,13.718181818181815
+2012,british columbia,high school,7.7
+2012,british columbia,college or trade,7.2
+2012,british columbia,university,7.2
+2013,canada,all levels of education,7.6
+2013,canada,less than high school,15.9
+2013,canada,high school,9.4
+2013,canada,college or trade,6.4
+2013,canada,university,6.1
+2013,newfoundland and labrador,all levels of education,11.6
+2013,newfoundland and labrador,less than high school,13.718181818181815
+2013,newfoundland and labrador,high school,16.1
+2013,newfoundland and labrador,college or trade,11.4
+2013,newfoundland and labrador,university,9.1
+2013,prince edward island,all levels of education,12.4
+2013,prince edward island,less than high school,13.718181818181815
+2013,prince edward island,high school,18.3
+2013,prince edward island,college or trade,8.8
+2013,prince edward island,university,3.6654545454545446
+2013,nova scotia,all levels of education,9.9
+2013,nova scotia,less than high school,25.1
+2013,nova scotia,high school,12.1
+2013,nova scotia,college or trade,10.4
+2013,nova scotia,university,4.7
+2013,new brunswick,all levels of education,11.2
+2013,new brunswick,less than high school,33.6
+2013,new brunswick,high school,13.7
+2013,new brunswick,college or trade,10.0
+2013,new brunswick,university,4.9
+2013,quebec,all levels of education,7.6
+2013,quebec,less than high school,16.0
+2013,quebec,high school,9.9
+2013,quebec,college or trade,6.4
+2013,quebec,university,6.1
+2013,ontario,all levels of education,8.7
+2013,ontario,less than high school,18.3
+2013,ontario,high school,11.6
+2013,ontario,college or trade,7.2
+2013,ontario,university,6.9
+2013,manitoba,all levels of education,5.7
+2013,manitoba,less than high school,12.5
+2013,manitoba,high school,6.2
+2013,manitoba,college or trade,6.2
+2013,manitoba,university,3.2
+2013,saskatchewan,all levels of education,5.6
+2013,saskatchewan,less than high school,18.2
+2013,saskatchewan,high school,8.7
+2013,saskatchewan,college or trade,3.1
+2013,saskatchewan,university,2.8
+2013,alberta,all levels of education,4.3
+2013,alberta,less than high school,8.6
+2013,alberta,high school,5.2
+2013,alberta,college or trade,3.7
+2013,alberta,university,3.3
+2013,british columbia,all levels of education,7.3
+2013,british columbia,less than high school,12.6
+2013,british columbia,high school,8.0
+2013,british columbia,college or trade,5.6
+2013,british columbia,university,7.4
+2014,canada,all levels of education,7.7
+2014,canada,less than high school,16.2
+2014,canada,high school,9.6
+2014,canada,college or trade,6.6
+2014,canada,university,6.0
+2014,newfoundland and labrador,all levels of education,9.2
+2014,newfoundland and labrador,less than high school,13.718181818181815
+2014,newfoundland and labrador,high school,12.2
+2014,newfoundland and labrador,college or trade,10.1
+2014,newfoundland and labrador,university,3.6654545454545446
+2014,prince edward island,all levels of education,9.7
+2014,prince edward island,less than high school,13.718181818181815
+2014,prince edward island,high school,12.7
+2014,prince edward island,college or trade,6.8206060606060595
+2014,prince edward island,university,3.6654545454545446
+2014,nova scotia,all levels of education,8.6
+2014,nova scotia,less than high school,13.718181818181815
+2014,nova scotia,high school,11.9
+2014,nova scotia,college or trade,7.5
+2014,nova scotia,university,6.4
+2014,new brunswick,all levels of education,10.9
+2014,new brunswick,less than high school,29.0
+2014,new brunswick,high school,14.7
+2014,new brunswick,college or trade,9.0
+2014,new brunswick,university,6.1
+2014,quebec,all levels of education,9.1
+2014,quebec,less than high school,22.0
+2014,quebec,high school,11.4
+2014,quebec,college or trade,7.6
+2014,quebec,university,6.8
+2014,ontario,all levels of education,8.2
+2014,ontario,less than high school,15.2
+2014,ontario,high school,11.1
+2014,ontario,college or trade,7.1
+2014,ontario,university,6.5
+2014,manitoba,all levels of education,5.1
+2014,manitoba,less than high school,12.2
+2014,manitoba,high school,6.4
+2014,manitoba,college or trade,3.8
+2014,manitoba,university,3.3
+2014,saskatchewan,all levels of education,4.3
+2014,saskatchewan,less than high school,18.9
+2014,saskatchewan,high school,4.8
+2014,saskatchewan,college or trade,6.8206060606060595
+2014,saskatchewan,university,2.9
+2014,alberta,all levels of education,5.1
+2014,alberta,less than high school,8.4
+2014,alberta,high school,6.6
+2014,alberta,college or trade,3.8
+2014,alberta,university,4.3
+2014,british columbia,all levels of education,7.4
+2014,british columbia,less than high school,13.718181818181815
+2014,british columbia,high school,8.7
+2014,british columbia,college or trade,6.5
+2014,british columbia,university,6.4
+2015,canada,all levels of education,7.5
+2015,canada,less than high school,17.2
+2015,canada,high school,9.9
+2015,canada,college or trade,6.4
+2015,canada,university,5.5
+2015,newfoundland and labrador,all levels of education,11.8
+2015,newfoundland and labrador,less than high school,13.718181818181815
+2015,newfoundland and labrador,high school,12.3
+2015,newfoundland and labrador,college or trade,13.3
+2015,newfoundland and labrador,university,3.6654545454545446
+2015,prince edward island,all levels of education,10.9
+2015,prince edward island,less than high school,13.718181818181815
+2015,prince edward island,high school,16.0
+2015,prince edward island,college or trade,6.8206060606060595
+2015,prince edward island,university,3.6654545454545446
+2015,nova scotia,all levels of education,8.7
+2015,nova scotia,less than high school,13.718181818181815
+2015,nova scotia,high school,12.7
+2015,nova scotia,college or trade,8.6
+2015,nova scotia,university,5.1
+2015,new brunswick,all levels of education,10.5
+2015,new brunswick,less than high school,28.4
+2015,new brunswick,high school,16.7
+2015,new brunswick,college or trade,7.9
+2015,new brunswick,university,3.6654545454545446
+2015,quebec,all levels of education,8.3
+2015,quebec,less than high school,17.4
+2015,quebec,high school,11.5
+2015,quebec,college or trade,6.7
+2015,quebec,university,6.5
+2015,ontario,all levels of education,7.7
+2015,ontario,less than high school,17.8
+2015,ontario,high school,11.8
+2015,ontario,college or trade,6.7
+2015,ontario,university,5.3
+2015,manitoba,all levels of education,5.7
+2015,manitoba,less than high school,12.6
+2015,manitoba,high school,6.4
+2015,manitoba,college or trade,4.3
+2015,manitoba,university,5.0
+2015,saskatchewan,all levels of education,6.6
+2015,saskatchewan,less than high school,15.3
+2015,saskatchewan,high school,8.5
+2015,saskatchewan,college or trade,5.4
+2015,saskatchewan,university,4.1
+2015,alberta,all levels of education,6.4
+2015,alberta,less than high school,15.5
+2015,alberta,high school,6.5
+2015,alberta,college or trade,5.1
+2015,alberta,university,5.8
+2015,british columbia,all levels of education,6.2
+2015,british columbia,less than high school,16.8
+2015,british columbia,high school,7.7
+2015,british columbia,college or trade,5.2
+2015,british columbia,university,4.6
