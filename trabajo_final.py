@@ -218,7 +218,7 @@ empleoclase_def_p3=empleoclase_def
 empleoclase_def_p31=empleoclase_def.copy()
 
 #Dataframe con los valores promedio de cada región de Ontario por clase de trabajador
-empleoclase_def_p31=empleoclase_def_p31[(empleoclase_def_p31['clase de trabajador']!='total employment') & (empleoclase_def_p31['clase de trabajador']!='  employees')&(empleoclase_def_p31['geografia']!='total, ontario regions')]
+empleoclase_def_p31=empleoclase_def_p31[(empleoclase_def_p31['clase de trabajador']!='Total employment') & (empleoclase_def_p31['clase de trabajador']!='  Employees')&(empleoclase_def_p31['geografia']!='total, ontario regions') & (empleoclase_def_p31['clase de trabajador']!='  Self-employed')]
 empleoclase_def_p31=empleoclase_def_p31.reset_index()
 empleoclase_def_p31=empleoclase_def_p31.drop(['index'],axis=1)
 empleoclase_def_p31 = pd.pivot_table(empleoclase_def_p31, values='valor', index=['clase de trabajador'], columns=['geografia'], aggfunc='mean')
@@ -243,7 +243,7 @@ baseclaset = pd.DataFrame(array2, columns = columnaarray2)
 baseregion = pd.DataFrame(array3, columns = columnaarray3)
 empleoclase_def_p32 = pd.concat([basevalorp, baseclaset, baseregion],axis=1)
 
-#Dataaframe para graficos de torta
+#Dataframe para graficos de torta
 empleoclase_def_p3graf=empleoclase_def_p31.copy()
 empleoclase_def_p3graf=empleoclase_def_p3graf.reset_index()
 
@@ -258,7 +258,7 @@ fig1.update_layout(
     template = 'simple_white',
     paper_bgcolor='rgba(0,0,0,0)',
     plot_bgcolor='rgba(0,0,0,0)',
-    legend_title = '<b>Barrio<b>',
+    legend_title = '<b>Clase<b>',
     title_x = 0.60)
 
 
@@ -274,7 +274,7 @@ fig2.update_layout(
     template = 'simple_white',
     paper_bgcolor='rgba(0,0,0,0)',
     plot_bgcolor='rgba(0,0,0,0)',
-    legend_title = '<b>Barrio<b>',
+    legend_title = '<b>Clase<b>',
     title_x = 0.60)
 
 #------
@@ -290,7 +290,7 @@ fig3.update_layout(
     template = 'simple_white',
     paper_bgcolor='rgba(0,0,0,0)',
     plot_bgcolor='rgba(0,0,0,0)',
-    legend_title = '<b>Barrio<b>',
+    legend_title = '<b>Clase<b>',
     title_x = 0.60)
 
 
@@ -307,7 +307,7 @@ fig4.update_layout(
     template = 'simple_white',
     paper_bgcolor='rgba(0,0,0,0)',
     plot_bgcolor='rgba(0,0,0,0)',
-    legend_title = '<b>Barrio<b>',
+    legend_title = '<b>Clase<b>',
     title_x = 0.60)
 
 
